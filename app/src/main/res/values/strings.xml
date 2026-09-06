@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">IPTV Pro</string>
+    <string name="title_live_tv">Live TV</string>
+    <string name="title_movies">Movies</string>
+    <string name="title_series">Series</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="settings">Settings</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="google_sign_in">Sign in with Google</string>
+    <string name="no_epg">No EPG available</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="next_up">Next</string>
+    <string name="retry">Retry</string>
+    <string name="error">Error</string>
+    <string name="loading">Loading...</string>
+</resources>
